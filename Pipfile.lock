@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "049125d2c927e7f4c17c117aaabac347e125e75a107e4bb247d7c0e6fc3f9d3a"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "units": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
